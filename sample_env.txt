@@ -1,0 +1,5 @@
+API_KEY_NEWS=
+PORT=8083
+DEFAULT_NEWS_LINK=https://newsapi.org/v2/top-headlines
+WEATHER_API_KEY=
+DEFAULT_WEATHER_LINK=http://api.openweathermap.org/data/2.5/forecast
